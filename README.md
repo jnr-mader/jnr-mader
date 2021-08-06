@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jnr-mader
+- 👀 I’m interested in all front-end web development
+- 🌱 I’m currently learning React
